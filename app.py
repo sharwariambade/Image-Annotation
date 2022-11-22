@@ -52,7 +52,7 @@ def uploadImage(key, new_height=480):
 
 # About Me UI 
 def annotateImg():
-    st.header("Annotate Image")
+    st.header("Annotate Image (Sharwari Ambade, ROll No 166)")
 
     img = uploadImage("annotation_img")
 
